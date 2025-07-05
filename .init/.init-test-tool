@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/playfulstorynest-107793-da727cca/storybook_frontend"
+}
